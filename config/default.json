@@ -1,0 +1,6 @@
+{
+	"port": 5000,
+	"jwtSecret": "lopka",
+	"mongoUri": "mongodb+srv://admin1:fq5ix9pPXRkoo6jz@cluster0-es5dy.gcp.mongodb.net/<app>?retryWrites=true&w=majority",
+	"baseUrl": "http://localhost:5000"
+}
